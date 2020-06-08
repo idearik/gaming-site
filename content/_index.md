@@ -1,14 +1,16 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+title: "Welcome Home, Gamer!"
 ---
 
-Welcome to **Cupper**: An -friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
+**MainTerus** punya prinsip bahwa setiap gamer harus menghabiskan lebih banyak waktu bermain game dibanding baca berita atau ikutan hype-hype kurang penting dari industri video game.
+
+Jadi, kami merangkumnya buat kamu:
 
 {{< ticks >}}
-* Screen reader and keyboard accessible
-* Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
+* Berita game terupdate
+* Singkat
+* Padat
+* Jelas
+* Game Gratisan
 {{< /ticks >}}
