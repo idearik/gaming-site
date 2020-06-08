@@ -1,0 +1,1 @@
+# idearik.github.io
