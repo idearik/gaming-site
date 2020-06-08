@@ -1,9 +1,9 @@
 baseURL: https://mainterus.com
-languageCode: id-id
+languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: MainTerus
 theme: cupper-hugo-theme
-googleAnalytics:
+googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
