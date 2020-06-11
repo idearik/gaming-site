@@ -12,5 +12,4 @@ Jadi, kami merangkumnya buat kamu:
 * Singkat
 * Padat
 * Jelas
-* Game Gratisan
 {{< /ticks >}}
